@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Erasmus Bridge",
+        "description": "A modern architectural marvel known as 'The Swan', offering picturesque views of the city and river.",
+        "latitude": 51.9090,
+        "longitude": 4.4863
+    },
+    {
+        "title": "Cube Houses",
+        "description": "An innovative set of cubic houses designed by architect Piet Blom, a unique and artistic residential area.",
+        "latitude": 51.9225,
+        "longitude": 4.4881
+    },
+    {
+        "title": "Witte de Withstraat",
+        "description": "A vibrant street known for its contemporary art galleries, street art, and cultural venues.",
+        "latitude": 51.9146,
+        "longitude": 4.4777
+    },
+    {
+        "title": "Boijmans Van Beuningen Museum",
+        "description": "A museum with an impressive collection of fine arts, including works by Van Gogh, Dali, and Rembrandt.",
+        "latitude": 51.9142,
+        "longitude": 4.4738
+    },
+    {
+        "title": "Kunsthal",
+        "description": "An art gallery hosting a variety of exhibitions ranging from contemporary to classical art.",
+        "latitude": 51.9122,
+        "longitude": 4.4735
+    },
+    {
+        "title": "Luchtsingel Bridge",
+        "description": "A crowdfunded pedestrian bridge featuring colorful, modern design, connecting different parts of the city.",
+        "latitude": 51.9243,
+        "longitude": 4.4770
+    },
+    {
+        "title": "Markthal",
+        "description": "A market hall with an impressive ceiling mural, combining food, art, and architecture in one location.",
+        "latitude": 51.9204,
+        "longitude": 4.4851
+    },
+    {
+        "title": "Het Park",
+        "description": "A historic park offering scenic views and home to the Euromast, a tower with an observation deck.",
+        "latitude": 51.9070,
+        "longitude": 4.4662
+    },
+    {
+        "title": "Westelijk Handelsterrein",
+        "description": "A complex of restored warehouses now housing galleries, restaurants, and shops, showcasing industrial art.",
+        "latitude": 51.9095,
+        "longitude": 4.4739
+    },
+    {
+        "title": "Fenix Food Factory",
+        "description": "A food market in a former warehouse, blending culinary arts with a vibrant community space.",
+        "latitude": 51.9043,
+        "longitude": 4.4844
+    }
+]
